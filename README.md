@@ -32,16 +32,14 @@
 	`./FullSubstringSearch
 
  2. **Алгоритм поиска с джокером**
-	`./WildCardSearch`
+	./WildCardSearch`
 ## Прогон всех тестов
 
    `make test`
 
 ## Запуск тестов по отдельности
 1. **Тест алгоритма поиска паттернов в тексте**
-
-    `./AhoCorasicktest
+	./AhoCorasicktest
 
 2. **Тест алгоритма поиска с джокером**
-
-    `./WildCardSearchtest
+	./WildCardSearchtest
